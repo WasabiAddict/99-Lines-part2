@@ -1,0 +1,18 @@
+body {
+    background-color: #0ae628;
+    text-align: center;
+  }
+  
+  h1 {
+    color: rgb(255, 72, 0);
+    display: inline-block;
+    margin: auto;
+  }
+  
+  .friend {
+    background-color: #04bbe9;
+  }
+  
+  .friend > h3 {
+    text-transform: uppercase;
+  }
